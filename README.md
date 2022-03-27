@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my github. I am currently a B.tech Computer science and engineering 4th SEM student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY.
 
 <!--
 **mohitmarvania/mohitmarvania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
