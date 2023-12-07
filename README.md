@@ -1,7 +1,9 @@
 ### Hi there 👋
-Welcome to my github. I am currently a B.tech Computer science and engineering 4th SEM student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY.
+Welcome to my github. I am currently a B.tech Computer science and engineering final year student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY.
 
-LinkedIn - https://www.linkedin.com/in/mohit-marvania-687910233/
+- 📫 How to reach me: * LinkedIn: https://www.linkedin.com/in/mohit-marvania-687910233/
+
+- 🔭 I’m currently a student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY
 
 <!--
 **mohitmarvania/mohitmarvania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
