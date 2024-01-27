@@ -5,6 +5,8 @@ Welcome to my github. I am currently a B.tech Computer science and engineering f
 
 - 🔭 I’m currently a student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY
 
+- 💻 HackerRank -> https://www.hackerrank.com/profile/mohitmarvania
+
 <!--
 **mohitmarvania/mohitmarvania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
