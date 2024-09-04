@@ -3,7 +3,8 @@ Welcome to my github. I am currently a B.tech Computer science and engineering f
 
 - 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/mohit-marvania-687910233/
 
-- 🔭 I’m currently a student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY
+- 🔭 I’m currently a CS grad at George Mason University.
+
 
 - 💻 HackerRank -> https://www.hackerrank.com/profile/mohitmarvania
 
