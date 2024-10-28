@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my github. I am currently a B.tech Computer science and engineering final year student in CHARUSAT UNIVERSITY OF SCIENCE AND TECHNOLOGY.
+Welcome to my github. I am currently a graduate student in Computer science and engineering at **George Mason University**.
 
 - 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/mohit-marvania-687910233/
 
