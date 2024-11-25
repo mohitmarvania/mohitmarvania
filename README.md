@@ -5,6 +5,7 @@ Welcome to my github. I am currently a graduate student in Computer science and 
 
 - 🔭 I’m currently a CS grad at George Mason University.
 
+- 🧑🏻‍💻 Leetcode -> https://leetcode.com/u/Mohit_Marvania/
 
 - 💻 HackerRank -> https://www.hackerrank.com/profile/mohitmarvania
 
