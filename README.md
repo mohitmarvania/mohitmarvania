@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Hi%20there%20👋🏼&fontSize=50&animation=fadeIn&fontColor=auto)
-# I am Mohit Marvania, Welcome to my github. 
+# I am **Mohit Marvania**, Welcome to my github. 
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 
